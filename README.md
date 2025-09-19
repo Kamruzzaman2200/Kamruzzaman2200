@@ -1,33 +1,62 @@
-![MasterHead](https://media4.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
-<h1 align="center">Hi 👋, I'm MD.Kamruzzaman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&quality=20&width=300&blur=80&format=pjpg&auto=webp">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamruzzaman2200&label=Profile%20views&color=0e75b6&style=flat" alt="kamruzzaman2200" /> </p>
+<h1 align="center">Hey <img src="https://camo.githubusercontent.com/bbc70b6515e817d1943dadf19ca39d94cb2154df20bb1b65f942e418810d2049/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" height="30px" width="30px"> I'm Md Kamruzzaman</h1>
+<h3 align="center">Full-Stack Developer (MERN) | ML & DL Research Enthusiast</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **HTML,CSS,JAVA,C#,C++,C**
-
-- 💬 Ask me about **Web Devlopment**
-
-- 📫 How to reach me **sohel.eightb@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kamruzzaman-sohel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamruzzaman-sohel" height="30" width="40" /></a>
-<a href="https://fb.com/kamruzzaman.sohel2200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamruzzaman.sohel2200" height="30" width="40" /></a>
-<a href="https://instagram.com/it_s_pikachu__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="it_s_pikachu_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pikachu22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pikachu22" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/md_kamruzzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="md_kamruzzaman" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Kamruzzaman2200">
+    <img src="https://komarev.com/ghpvc/?username=Kamruzzaman2200&label=Profile%20views&color=00FFFF&style=flat-square" alt="Kamruzzaman2200's profile views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2J5cTM4MzB3bnd4b2NzbHZkeHcwNG50d3JwdDd6eWExMDdmb3psaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s4ycVAVuJvXRvK0Rap/giphy.gif" alt="Banner" width="100%" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamruzzaman2200&show_icons=true&locale=en&layout=compact" alt="kamruzzaman2200" /></p>
+## 📌 About Me
+- Hi, I’m MD. Kamruzzaman — a Computer Science student from Bangladesh, currently majoring in Software Development. I’m passionate about building things that matter: clean, usable websites; useful tools; and smart models.
+- 💻 I specialize in MERN stack web development (MongoDB, Express, React, Node.js).
+- 🤖 I’m also doing research in Machine Learning (ML) and Deep Learning (DL) — exploring ways to combine data, algorithms, and creativity to solve real-world problems.
+- 🌱 Always learning: whether that’s a new JavaScript library, a neural network architecture, or best practices for code design, I’m curious and driven.
+- 🚀 My goal is to build projects that help others, collaborate in open source, and grow toward becoming a versatile full-stack / AI engineer.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamruzzaman2200&show_icons=true&locale=en" alt="kamruzzaman2200" /></p>
 
+## 🧠 My Focus Areas
+* Software Development
+* MERN Stack Web Development
+* Full-Stack Application Design
+* Machine Learning (ML)
+* Deep Learning (DL)
+* Research & Innovation in AI
+* Problem Solving & Algorithm Design
+* Open Source Contribution
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kamruzzaman2200&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="Kamruzzaman2200's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Kamruzzaman2200&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Kamruzzaman2200's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kamruzzaman2200&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Md Kamruzzaman's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Kamruzzaman2200&theme=nightowl&radius=10" alt="Kamruzzaman2200's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamruzzaman2200&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
+
+## 🔗 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/kamruzzaman-sohel" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Md Kamruzzaman's LinkedIn"/></a> <a href="mailto:sohel.eightb@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Md Kamruzzaman's Email"/></a> <a href="https://kamruzzaman2200.github.io/My-Portfolio" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
+
+## 💬 Quote
+> Merging logic with creativity through code
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
 
